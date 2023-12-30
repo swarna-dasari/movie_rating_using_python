@@ -10,7 +10,7 @@ Visualizations: distributions of ratings, rating trends over time
 User-based and item-based collaborative filtering: for movie recommendations
 Evaluation of recommendation accuracy: using metrics like RMSE and precision/recall
 Dataset
-Source: MovieLens 100K or 1M dataset (http://grouplens.org/datasets/movielens/)
+Source: Kaggle dataset-https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies 
 Format: CSV files containing movie metadata, user ratings, and user information
 Requirements
 Python 3.x
